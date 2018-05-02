@@ -72,7 +72,7 @@ a {
 .hero {
   position: relative;
   width: 100%;
-  background-image: url('../img/home.png');
+  background-image: url('../img/home.jpg');
   box-shadow: 0 4px 11px rgba(124, 146, 169, 0.5);
   background-size: cover;
   background-position: center center;
@@ -84,7 +84,7 @@ a {
 .hero2 {
   position: relative;
   width: 100%;
-  background-image: url('../img/product.png');
+  background-image: url('../img/product.jpg');
   box-shadow: 0 4px 11px rgba(124, 146, 169, 0.5);
   background-size: cover;
   background-position: center center;
@@ -95,7 +95,7 @@ a {
 .hero3 {
   position: relative;
   width: 100%;
-  background-image: url('../img/blog.png');
+  background-image: url('../img/blog.jpg');
   box-shadow: 0 4px 11px rgba(124, 146, 169, 0.5);
   background-size: cover;
   background-position: center center;
@@ -106,7 +106,7 @@ a {
 .hero4 {
   position: relative;
   width: 100%;
-  background-image: url('../img/company.png');
+  background-image: url('../img/company.jpg');
   box-shadow: 0 4px 11px rgba(124, 146, 169, 0.5);
   background-size: cover;
   background-position: center center;
